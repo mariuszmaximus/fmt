@@ -528,4 +528,4 @@ The {fmt} library is maintained by Victor Zverovich (`vitaut
 See `Contributors <https://github.com/fmtlib/fmt/graphs/contributors>`_ and
 `Releases <https://github.com/fmtlib/fmt/releases>`_ for some of the names.
 Let us know if your contribution is not listed or mentioned incorrectly and
-we'll make it right.
+we'll make it right
